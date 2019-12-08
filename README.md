@@ -19,7 +19,7 @@
           5.运行之前建议先开启自启动，不然会存在APP杀掉 service也跟着挂（三星的s8碰到了这种情况）。
 <br> <br> 
 
-          思路
+          感谢
           
           1.Service 保活用了这个库 https://github.com/xingda920813/HelloDaemon
           
