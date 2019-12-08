@@ -1,7 +1,7 @@
 # Location
 # 自动定位跟踪，定时邮件发送，适合给老人小孩使用<br> <br> 
 
-已测试多部Android5.0及以上的机型(有问题反馈吧)<br> <br> 
+   Android5.0及以上的机型理论没有问题 (有问题反馈吧)<br> <br> 
      
  
           思路
@@ -18,6 +18,14 @@
           
           5.运行之前建议先开启自启动，不然会存在APP杀掉 service也跟着挂。
 <br> <br> 
+
+          思路
+          
+          1.Service 保活用了这个库 https://github.com/xingda920813/HelloDaemon
+          
+          2.demo网络请求图方便用了 okhttp utils https://github.com/hongyangAndroid/okhttputils
+          
+         
 
 图片：<br> <br> 
 
