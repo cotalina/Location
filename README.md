@@ -25,7 +25,7 @@
           
           2.demo网络请求图方便用了 okhttp utils https://github.com/hongyangAndroid/okhttputils
           
-          3.图片加载有点慢，可以先看看加载图吧
+          3.图片加载有点慢，可以先看看图
           
          
 
