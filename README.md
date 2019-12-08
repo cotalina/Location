@@ -14,7 +14,7 @@
           
           3.获取经纬度 逆向转换获取地址（抓了一个免费解析经纬度地址的接口）
 
-          4.通过邮箱发送
+          4.通过邮箱发送（收不到，邮箱看看是不是在垃圾箱里面之类的~）
           
           5.运行之前建议先开启自启动，不然会存在APP杀掉 service也跟着挂（三星的s8碰到了这种情况）。
 <br> <br> 
@@ -24,6 +24,8 @@
           1.Service 保活用了这个库 https://github.com/xingda920813/HelloDaemon
           
           2.demo网络请求图方便用了 okhttp utils https://github.com/hongyangAndroid/okhttputils
+          
+          3.图片加载有点慢，可以先看看加载图吧
           
          
 
